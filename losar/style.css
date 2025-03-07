@@ -1,0 +1,72 @@
+/*** You will not need this file until Unit 3 ***/
+html{
+    height: 50%;
+    width: 100%;
+}
+body
+{
+    background-color: rgb(241, 241, 139);
+    
+}
+
+button 
+{
+    background-color: blanchedalmond;
+    border-radius: 200px;
+    border: double;
+    border-color: rgb(223, 168, 86);
+    border-style: dashed;
+    
+}
+.block
+{
+    color: rgb(24, 24, 24);
+}
+
+head
+{
+    background-color: blueviolet;
+}
+
+.Event 
+{
+    border-radius: 50px;
+    border-style: dashed;
+    text-align: center;
+
+}
+
+h3 
+{
+    border-radius: 100px;
+    border-color: rgb(216, 19, 19);
+    border-style: dotted;
+    border: double;
+    
+}
+p 
+{
+    text-align: center;
+    
+}
+.myCanvas {
+    color: burlywood;
+    border: 1px;
+    border-style: dashed;
+    border-radius: 100px;
+    text-decoration: dashed;
+
+}
+
+img 
+{
+    width: 400px;
+    border-radius: 10px;
+
+}
+h1
+{
+    text-align: center;
+    
+
+}
